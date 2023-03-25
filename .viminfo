@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1679753696,,"wq!"
+|2,0,1679754487,,"wq!"
 :q
 |2,0,1679546671,,"q"
 
@@ -30,34 +30,70 @@
 |3,0,26,0,1,0,1679546644,"iqqq€kr€kb€kb€kb€kb€ýaw"
 
 # File marks:
-'0  1  19  ~/rohanfile
-|4,48,1,19,1679753696,"~/rohanfile"
-'1  2  0  ~/pkfile
-|4,49,2,0,1679751179,"~/pkfile"
-'2  2  0  ~/rajfile
-|4,50,2,0,1679718807,"~/rajfile"
-'3  1  18  ~/mumbaigit/demofile
-|4,51,1,18,1679554636,"~/mumbaigit/demofile"
-'4  1  54  ~/mumbaigit/demofile
-|4,52,1,54,1679554590,"~/mumbaigit/demofile"
-'5  2  0  ~/mumbaigit/demofile
-|4,53,2,0,1679554507,"~/mumbaigit/demofile"
-'6  2  0  ~/mumbaigit/demofile
-|4,54,2,0,1679554507,"~/mumbaigit/demofile"
+'0  1  15  ~/devopsfile
+|4,48,1,15,1679754487,"~/devopsfile"
+'1  1  0  ~/.git/MERGE_MSG
+|4,49,1,0,1679753969,"~/.git/MERGE_MSG"
+'2  1  19  ~/rohanfile
+|4,50,1,19,1679753696,"~/rohanfile"
+'3  2  0  ~/pkfile
+|4,51,2,0,1679751179,"~/pkfile"
+'4  2  0  ~/rajfile
+|4,52,2,0,1679718807,"~/rajfile"
+'5  1  18  ~/mumbaigit/demofile
+|4,53,1,18,1679554636,"~/mumbaigit/demofile"
+'6  1  54  ~/mumbaigit/demofile
+|4,54,1,54,1679554590,"~/mumbaigit/demofile"
 '7  2  0  ~/mumbaigit/demofile
 |4,55,2,0,1679554507,"~/mumbaigit/demofile"
 '8  2  0  ~/mumbaigit/demofile
 |4,56,2,0,1679554507,"~/mumbaigit/demofile"
-'9  2  6  ~/mumbaigit/.gitignore
-|4,57,2,6,1679546680,"~/mumbaigit/.gitignore"
+'9  2  0  ~/mumbaigit/demofile
+|4,57,2,0,1679554507,"~/mumbaigit/demofile"
 
 # Jumplist (newest first):
+-'  1  15  ~/devopsfile
+|4,39,1,15,1679754487,"~/devopsfile"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1679753969,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1679753969,"~/.git/MERGE_MSG"
+-'  1  19  ~/rohanfile
+|4,39,1,19,1679753696,"~/rohanfile"
+-'  1  19  ~/rohanfile
+|4,39,1,19,1679753696,"~/rohanfile"
+-'  1  19  ~/rohanfile
+|4,39,1,19,1679753696,"~/rohanfile"
 -'  1  19  ~/rohanfile
 |4,39,1,19,1679753696,"~/rohanfile"
 -'  2  0  ~/pkfile
 |4,39,2,0,1679751179,"~/pkfile"
 -'  2  0  ~/pkfile
 |4,39,2,0,1679751179,"~/pkfile"
+-'  2  0  ~/pkfile
+|4,39,2,0,1679751179,"~/pkfile"
+-'  2  0  ~/pkfile
+|4,39,2,0,1679751179,"~/pkfile"
+-'  2  0  ~/pkfile
+|4,39,2,0,1679751179,"~/pkfile"
+-'  2  0  ~/pkfile
+|4,39,2,0,1679751179,"~/pkfile"
+-'  2  0  ~/pkfile
+|4,39,2,0,1679751179,"~/pkfile"
+-'  2  0  ~/pkfile
+|4,39,2,0,1679751179,"~/pkfile"
+-'  1  0  ~/pkfile
+|4,39,1,0,1679751136,"~/pkfile"
+-'  1  0  ~/pkfile
+|4,39,1,0,1679751136,"~/pkfile"
+-'  1  0  ~/pkfile
+|4,39,1,0,1679751136,"~/pkfile"
+-'  1  0  ~/pkfile
+|4,39,1,0,1679751136,"~/pkfile"
+-'  1  0  ~/pkfile
+|4,39,1,0,1679751136,"~/pkfile"
+-'  1  0  ~/pkfile
+|4,39,1,0,1679751136,"~/pkfile"
 -'  1  0  ~/pkfile
 |4,39,1,0,1679751136,"~/pkfile"
 -'  1  0  ~/pkfile
@@ -70,6 +106,54 @@
 |4,39,2,0,1679718807,"~/rajfile"
 -'  2  0  ~/rajfile
 |4,39,2,0,1679718807,"~/rajfile"
+-'  2  0  ~/rajfile
+|4,39,2,0,1679718807,"~/rajfile"
+-'  2  0  ~/rajfile
+|4,39,2,0,1679718807,"~/rajfile"
+-'  2  0  ~/rajfile
+|4,39,2,0,1679718807,"~/rajfile"
+-'  2  0  ~/rajfile
+|4,39,2,0,1679718807,"~/rajfile"
+-'  2  0  ~/rajfile
+|4,39,2,0,1679718807,"~/rajfile"
+-'  2  0  ~/rajfile
+|4,39,2,0,1679718807,"~/rajfile"
+-'  2  0  ~/rajfile
+|4,39,2,0,1679718807,"~/rajfile"
+-'  2  0  ~/rajfile
+|4,39,2,0,1679718807,"~/rajfile"
+-'  2  0  ~/rajfile
+|4,39,2,0,1679718807,"~/rajfile"
+-'  2  0  ~/rajfile
+|4,39,2,0,1679718807,"~/rajfile"
+-'  2  0  ~/rajfile
+|4,39,2,0,1679718807,"~/rajfile"
+-'  2  0  ~/rajfile
+|4,39,2,0,1679718807,"~/rajfile"
+-'  1  0  ~/rajfile
+|4,39,1,0,1679718761,"~/rajfile"
+-'  1  0  ~/rajfile
+|4,39,1,0,1679718761,"~/rajfile"
+-'  1  0  ~/rajfile
+|4,39,1,0,1679718761,"~/rajfile"
+-'  1  0  ~/rajfile
+|4,39,1,0,1679718761,"~/rajfile"
+-'  1  0  ~/rajfile
+|4,39,1,0,1679718761,"~/rajfile"
+-'  1  0  ~/rajfile
+|4,39,1,0,1679718761,"~/rajfile"
+-'  1  0  ~/rajfile
+|4,39,1,0,1679718761,"~/rajfile"
+-'  1  0  ~/rajfile
+|4,39,1,0,1679718761,"~/rajfile"
+-'  1  0  ~/rajfile
+|4,39,1,0,1679718761,"~/rajfile"
+-'  1  0  ~/rajfile
+|4,39,1,0,1679718761,"~/rajfile"
+-'  1  0  ~/rajfile
+|4,39,1,0,1679718761,"~/rajfile"
+-'  1  0  ~/rajfile
+|4,39,1,0,1679718761,"~/rajfile"
 -'  1  0  ~/rajfile
 |4,39,1,0,1679718761,"~/rajfile"
 -'  1  0  ~/rajfile
@@ -94,6 +178,54 @@
 |4,39,1,18,1679554636,"~/mumbaigit/demofile"
 -'  1  18  ~/mumbaigit/demofile
 |4,39,1,18,1679554636,"~/mumbaigit/demofile"
+-'  1  18  ~/mumbaigit/demofile
+|4,39,1,18,1679554636,"~/mumbaigit/demofile"
+-'  1  18  ~/mumbaigit/demofile
+|4,39,1,18,1679554636,"~/mumbaigit/demofile"
+-'  1  18  ~/mumbaigit/demofile
+|4,39,1,18,1679554636,"~/mumbaigit/demofile"
+-'  1  18  ~/mumbaigit/demofile
+|4,39,1,18,1679554636,"~/mumbaigit/demofile"
+-'  1  18  ~/mumbaigit/demofile
+|4,39,1,18,1679554636,"~/mumbaigit/demofile"
+-'  1  18  ~/mumbaigit/demofile
+|4,39,1,18,1679554636,"~/mumbaigit/demofile"
+-'  1  18  ~/mumbaigit/demofile
+|4,39,1,18,1679554636,"~/mumbaigit/demofile"
+-'  1  18  ~/mumbaigit/demofile
+|4,39,1,18,1679554636,"~/mumbaigit/demofile"
+-'  1  18  ~/mumbaigit/demofile
+|4,39,1,18,1679554636,"~/mumbaigit/demofile"
+-'  1  18  ~/mumbaigit/demofile
+|4,39,1,18,1679554636,"~/mumbaigit/demofile"
+-'  1  18  ~/mumbaigit/demofile
+|4,39,1,18,1679554636,"~/mumbaigit/demofile"
+-'  1  18  ~/mumbaigit/demofile
+|4,39,1,18,1679554636,"~/mumbaigit/demofile"
+-'  1  18  ~/mumbaigit/demofile
+|4,39,1,18,1679554636,"~/mumbaigit/demofile"
+-'  1  18  ~/mumbaigit/demofile
+|4,39,1,18,1679554636,"~/mumbaigit/demofile"
+-'  1  18  ~/mumbaigit/demofile
+|4,39,1,18,1679554636,"~/mumbaigit/demofile"
+-'  1  18  ~/mumbaigit/demofile
+|4,39,1,18,1679554636,"~/mumbaigit/demofile"
+-'  1  18  ~/mumbaigit/demofile
+|4,39,1,18,1679554636,"~/mumbaigit/demofile"
+-'  1  18  ~/mumbaigit/demofile
+|4,39,1,18,1679554636,"~/mumbaigit/demofile"
+-'  1  18  ~/mumbaigit/demofile
+|4,39,1,18,1679554636,"~/mumbaigit/demofile"
+-'  1  18  ~/mumbaigit/demofile
+|4,39,1,18,1679554636,"~/mumbaigit/demofile"
+-'  1  18  ~/mumbaigit/demofile
+|4,39,1,18,1679554636,"~/mumbaigit/demofile"
+-'  1  18  ~/mumbaigit/demofile
+|4,39,1,18,1679554636,"~/mumbaigit/demofile"
+-'  1  18  ~/mumbaigit/demofile
+|4,39,1,18,1679554636,"~/mumbaigit/demofile"
+-'  1  18  ~/mumbaigit/demofile
+|4,39,1,18,1679554636,"~/mumbaigit/demofile"
 -'  1  54  ~/mumbaigit/demofile
 |4,39,1,54,1679554590,"~/mumbaigit/demofile"
 -'  1  54  ~/mumbaigit/demofile
@@ -110,150 +242,29 @@
 |4,39,1,54,1679554590,"~/mumbaigit/demofile"
 -'  1  54  ~/mumbaigit/demofile
 |4,39,1,54,1679554590,"~/mumbaigit/demofile"
--'  2  0  ~/mumbaigit/demofile
-|4,39,2,0,1679554527,"~/mumbaigit/demofile"
--'  2  0  ~/mumbaigit/demofile
-|4,39,2,0,1679554527,"~/mumbaigit/demofile"
--'  2  0  ~/mumbaigit/demofile
-|4,39,2,0,1679554527,"~/mumbaigit/demofile"
--'  2  0  ~/mumbaigit/demofile
-|4,39,2,0,1679554527,"~/mumbaigit/demofile"
--'  2  0  ~/mumbaigit/demofile
-|4,39,2,0,1679554527,"~/mumbaigit/demofile"
--'  2  0  ~/mumbaigit/demofile
-|4,39,2,0,1679554527,"~/mumbaigit/demofile"
--'  2  0  ~/mumbaigit/demofile
-|4,39,2,0,1679554527,"~/mumbaigit/demofile"
--'  2  0  ~/mumbaigit/demofile
-|4,39,2,0,1679554527,"~/mumbaigit/demofile"
--'  2  0  ~/mumbaigit/demofile
-|4,39,2,0,1679554527,"~/mumbaigit/demofile"
--'  2  0  ~/mumbaigit/demofile
-|4,39,2,0,1679554527,"~/mumbaigit/demofile"
--'  2  0  ~/mumbaigit/demofile
-|4,39,2,0,1679554527,"~/mumbaigit/demofile"
--'  2  0  ~/mumbaigit/demofile
-|4,39,2,0,1679554527,"~/mumbaigit/demofile"
--'  2  0  ~/mumbaigit/demofile
-|4,39,2,0,1679554527,"~/mumbaigit/demofile"
--'  2  0  ~/mumbaigit/demofile
-|4,39,2,0,1679554527,"~/mumbaigit/demofile"
--'  2  0  ~/mumbaigit/demofile
-|4,39,2,0,1679554527,"~/mumbaigit/demofile"
--'  2  0  ~/mumbaigit/demofile
-|4,39,2,0,1679554527,"~/mumbaigit/demofile"
--'  2  0  ~/mumbaigit/demofile
-|4,39,2,0,1679554507,"~/mumbaigit/demofile"
--'  2  0  ~/mumbaigit/demofile
-|4,39,2,0,1679554507,"~/mumbaigit/demofile"
--'  2  0  ~/mumbaigit/demofile
-|4,39,2,0,1679554507,"~/mumbaigit/demofile"
--'  2  0  ~/mumbaigit/demofile
-|4,39,2,0,1679554507,"~/mumbaigit/demofile"
--'  2  0  ~/mumbaigit/demofile
-|4,39,2,0,1679554507,"~/mumbaigit/demofile"
--'  2  0  ~/mumbaigit/demofile
-|4,39,2,0,1679554507,"~/mumbaigit/demofile"
--'  2  0  ~/mumbaigit/demofile
-|4,39,2,0,1679554507,"~/mumbaigit/demofile"
--'  2  0  ~/mumbaigit/demofile
-|4,39,2,0,1679554507,"~/mumbaigit/demofile"
--'  1  0  ~/mumbaigit/demofile
-|4,39,1,0,1679554415,"~/mumbaigit/demofile"
--'  1  0  ~/mumbaigit/demofile
-|4,39,1,0,1679554415,"~/mumbaigit/demofile"
--'  1  0  ~/mumbaigit/demofile
-|4,39,1,0,1679554415,"~/mumbaigit/demofile"
--'  1  0  ~/mumbaigit/demofile
-|4,39,1,0,1679554415,"~/mumbaigit/demofile"
--'  1  0  ~/mumbaigit/demofile
-|4,39,1,0,1679554415,"~/mumbaigit/demofile"
--'  1  0  ~/mumbaigit/demofile
-|4,39,1,0,1679554415,"~/mumbaigit/demofile"
--'  1  0  ~/mumbaigit/demofile
-|4,39,1,0,1679554415,"~/mumbaigit/demofile"
--'  1  0  ~/mumbaigit/demofile
-|4,39,1,0,1679554415,"~/mumbaigit/demofile"
--'  2  6  ~/mumbaigit/.gitignore
-|4,39,2,6,1679546680,"~/mumbaigit/.gitignore"
--'  2  6  ~/mumbaigit/.gitignore
-|4,39,2,6,1679546680,"~/mumbaigit/.gitignore"
--'  2  6  ~/mumbaigit/.gitignore
-|4,39,2,6,1679546680,"~/mumbaigit/.gitignore"
--'  2  6  ~/mumbaigit/.gitignore
-|4,39,2,6,1679546680,"~/mumbaigit/.gitignore"
--'  2  6  ~/mumbaigit/.gitignore
-|4,39,2,6,1679546680,"~/mumbaigit/.gitignore"
--'  2  6  ~/mumbaigit/.gitignore
-|4,39,2,6,1679546680,"~/mumbaigit/.gitignore"
--'  2  6  ~/mumbaigit/.gitignore
-|4,39,2,6,1679546680,"~/mumbaigit/.gitignore"
--'  2  6  ~/mumbaigit/.gitignore
-|4,39,2,6,1679546680,"~/mumbaigit/.gitignore"
--'  2  6  ~/mumbaigit/.gitignore
-|4,39,2,6,1679546680,"~/mumbaigit/.gitignore"
--'  2  6  ~/mumbaigit/.gitignore
-|4,39,2,6,1679546680,"~/mumbaigit/.gitignore"
--'  2  6  ~/mumbaigit/.gitignore
-|4,39,2,6,1679546680,"~/mumbaigit/.gitignore"
--'  2  6  ~/mumbaigit/.gitignore
-|4,39,2,6,1679546680,"~/mumbaigit/.gitignore"
--'  2  6  ~/mumbaigit/.gitignore
-|4,39,2,6,1679546680,"~/mumbaigit/.gitignore"
--'  2  6  ~/mumbaigit/.gitignore
-|4,39,2,6,1679546680,"~/mumbaigit/.gitignore"
--'  2  6  ~/mumbaigit/.gitignore
-|4,39,2,6,1679546680,"~/mumbaigit/.gitignore"
--'  2  6  ~/mumbaigit/.gitignore
-|4,39,2,6,1679546680,"~/mumbaigit/.gitignore"
--'  2  6  ~/mumbaigit/.gitignore
-|4,39,2,6,1679546680,"~/mumbaigit/.gitignore"
--'  2  6  ~/mumbaigit/.gitignore
-|4,39,2,6,1679546680,"~/mumbaigit/.gitignore"
--'  2  6  ~/mumbaigit/.gitignore
-|4,39,2,6,1679546680,"~/mumbaigit/.gitignore"
--'  2  6  ~/mumbaigit/.gitignore
-|4,39,2,6,1679546680,"~/mumbaigit/.gitignore"
--'  2  6  ~/mumbaigit/.gitignore
-|4,39,2,6,1679546680,"~/mumbaigit/.gitignore"
--'  2  6  ~/mumbaigit/.gitignore
-|4,39,2,6,1679546680,"~/mumbaigit/.gitignore"
--'  2  6  ~/mumbaigit/.gitignore
-|4,39,2,6,1679546680,"~/mumbaigit/.gitignore"
--'  2  6  ~/mumbaigit/.gitignore
-|4,39,2,6,1679546680,"~/mumbaigit/.gitignore"
--'  2  6  ~/mumbaigit/.gitignore
-|4,39,2,6,1679546680,"~/mumbaigit/.gitignore"
--'  2  6  ~/mumbaigit/.gitignore
-|4,39,2,6,1679546680,"~/mumbaigit/.gitignore"
--'  2  6  ~/mumbaigit/.gitignore
-|4,39,2,6,1679546680,"~/mumbaigit/.gitignore"
--'  2  6  ~/mumbaigit/.gitignore
-|4,39,2,6,1679546680,"~/mumbaigit/.gitignore"
--'  2  6  ~/mumbaigit/.gitignore
-|4,39,2,6,1679546680,"~/mumbaigit/.gitignore"
--'  2  6  ~/mumbaigit/.gitignore
-|4,39,2,6,1679546680,"~/mumbaigit/.gitignore"
--'  2  6  ~/mumbaigit/.gitignore
-|4,39,2,6,1679546680,"~/mumbaigit/.gitignore"
--'  2  6  ~/mumbaigit/.gitignore
-|4,39,2,6,1679546680,"~/mumbaigit/.gitignore"
--'  2  6  ~/mumbaigit/.gitignore
-|4,39,2,6,1679546680,"~/mumbaigit/.gitignore"
--'  2  6  ~/mumbaigit/.gitignore
-|4,39,2,6,1679546680,"~/mumbaigit/.gitignore"
--'  2  6  ~/mumbaigit/.gitignore
-|4,39,2,6,1679546680,"~/mumbaigit/.gitignore"
--'  2  6  ~/mumbaigit/.gitignore
-|4,39,2,6,1679546680,"~/mumbaigit/.gitignore"
--'  2  6  ~/mumbaigit/.gitignore
-|4,39,2,6,1679546680,"~/mumbaigit/.gitignore"
--'  2  6  ~/mumbaigit/.gitignore
-|4,39,2,6,1679546680,"~/mumbaigit/.gitignore"
--'  2  6  ~/mumbaigit/.gitignore
-|4,39,2,6,1679546680,"~/mumbaigit/.gitignore"
+-'  1  54  ~/mumbaigit/demofile
+|4,39,1,54,1679554590,"~/mumbaigit/demofile"
+-'  1  54  ~/mumbaigit/demofile
+|4,39,1,54,1679554590,"~/mumbaigit/demofile"
+-'  1  54  ~/mumbaigit/demofile
+|4,39,1,54,1679554590,"~/mumbaigit/demofile"
+-'  1  54  ~/mumbaigit/demofile
+|4,39,1,54,1679554590,"~/mumbaigit/demofile"
+-'  1  54  ~/mumbaigit/demofile
+|4,39,1,54,1679554590,"~/mumbaigit/demofile"
 
 # History of marks within files (newest to oldest):
+
+> ~/devopsfile
+	*	1679754472	0
+	"	1	15
+	^	1	16
+	.	1	15
+	+	1	15
+
+> ~/.git/MERGE_MSG
+	*	1679753963	0
+	"	1	0
 
 > ~/rohanfile
 	*	1679753690	0
@@ -386,17 +397,3 @@
 	^	3	0
 	.	2	0
 	+	2	0
-
-> ~/fileyrt
-	*	1678109289	0
-	"	2	0
-	^	2	0
-	.	1	7
-	+	1	7
-
-> ~/file3
-	*	1678109089	0
-	"	2	25
-	^	2	26
-	.	2	25
-	+	2	25
