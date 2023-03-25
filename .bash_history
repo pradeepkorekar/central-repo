@@ -582,3 +582,75 @@ git log --oneline
 clear
 git push origin main 
 git push origin main
+clear
+vi rajfile
+git add .
+git commit -m "black"
+git branch
+git checkout new
+vi rajfile
+git add .
+git commit -m "blue"
+git checkout main 
+git merge new
+git branch
+vi rajfile 
+rm -rf rajfile
+cd mumbaigit/
+vi rajfile
+ls
+rm -rf rajfile
+rm -rf testfile
+rm -rf demofile
+rm -rf 4.linux
+rm -rf 2.myfile
+rm -rf 1.java
+ls
+vi rajfile
+cd mumbaigit/
+git branch
+vi harifile
+ls
+cat harifile
+git add .
+git status
+git commit -m "hari"
+git merge abort
+git merge --abort
+git commit -m "hari"
+git add .
+git commit -m "hari"
+ls
+rm -rf .
+rm -rf all
+ls
+rm -rf *
+ls
+vi harifile
+cat harifile
+git add .
+git commit -m "hari"
+git status
+git restore harifile
+git status
+git reset .
+git status
+git reset .
+git reset --hard
+git status 
+ls
+clear
+cd mumbaigit/
+ls
+git status
+git branch
+git checkout new
+git branch
+git merge --abort
+git log --oneline
+git checkout new
+git status
+git add harifile
+git commit -m "hari1"
+ls
+git commit -m "hari1"
